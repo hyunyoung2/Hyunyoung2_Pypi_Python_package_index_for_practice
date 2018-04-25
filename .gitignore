@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+*.egg
+build/
+dist/
+nlppypitest.egg-info/
+
+# editor temporary files
+*.*.sw[op]
