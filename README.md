@@ -153,3 +153,7 @@ pypi:
  - [example github](https://github.com/konltk/konlp)
  - [test pypi](https://test.pypi.org/)
  - [pypi org](https://pypi.org/)
+ 
+ travis
+  - [travis's example](https://github.com/travis-ci-examples)
+  - [travis's python](https://docs.travis-ci.com/user/languages/python)
