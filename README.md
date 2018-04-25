@@ -1,5 +1,7 @@
 # Pypi practice
 
+[![Build Status](https://travis-ci.org/hyunyoung2/Hyunyoung2_Pypi_Python_package_index_for_practice.svg?branch=master)](https://travis-ci.org/hyunyoung2/Hyunyoung2_Pypi_Python_package_index_for_practice)
+
  When you normally distribute Python package, you have to use PyPi(Python Package Index).
 
  I mean when you install python package, you used to use pip install package name. 
