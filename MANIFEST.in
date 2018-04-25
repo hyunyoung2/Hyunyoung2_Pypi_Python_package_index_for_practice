@@ -1,0 +1,8 @@
+# Later on, we write this
+
+# added by check_manifest.py
+include *.md
+include *.sample
+include *.txt
+include ChangeLog
+include Makefile
