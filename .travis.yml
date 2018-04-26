@@ -2,5 +2,5 @@ language: python
 python: 
  - 3.5
 script: 
- - python3 Hyunyoung2_Pypi_Python_package_index_for_practice/nlppypitest/nlp_pypitest.py 
+ - python3 nlp.py 
 
