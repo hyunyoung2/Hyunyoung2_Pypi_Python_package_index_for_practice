@@ -3,4 +3,4 @@ python:
  - 3.5
 script: 
  - python3 ./nlppypitest/nlp_pypitest.py 
- - pyttest ./nlppypitest
+ - pytest ./nlppypitest
