@@ -2,5 +2,5 @@ language: python
 python: 
  - 3.5
 script: 
- - pytest ./Hyunyoung2_Pypi_Python_package_index_for_practice/nlppypitest/
- - python3 ./Hyunyoung2_Pypi_Python_package_index_for_practice/nlppypitest/npl.py
+ - pytest nlppypitest/
+ - python3 nlppypitest/npl.py
