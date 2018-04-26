@@ -2,5 +2,4 @@ language: python
 python: 
  - 3.5
 script: 
- - pytest nlppypitest/
- - python3 nlppypitest/npl.py
+ - python3 ./nlppypitest/npl.py
