@@ -158,3 +158,4 @@ pypi:
  travis
   - [travis's example](https://github.com/travis-ci-examples)
   - [travis's python](https://docs.travis-ci.com/user/languages/python)
+  - [traive with wordpress-plugin-travis](https://deliciousbrains.com/deploying-wordpress-plugins-travis/) 
